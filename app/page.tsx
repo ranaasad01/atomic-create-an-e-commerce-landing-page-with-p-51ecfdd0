@@ -119,7 +119,7 @@ const testimonials = [
     role: "Fashion Blogger",
     avatar: "https://i.ebayimg.com/images/g/RNgAAeSwgIBpi5lH/s-l1200.webp",
     rating: 5,
-    text: "Lumière has completely changed how I shop. The quality of every piece is exceptional, and the curation feels personal. I've never been disappointed.",
+    text: "Lumière has completely changed how I shop. The quality of every piece is exceptional, and the curation feels personal.",
   },
   {
     id: 2,
