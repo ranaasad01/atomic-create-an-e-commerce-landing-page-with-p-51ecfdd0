@@ -340,6 +340,7 @@ export default function HomePage() {
                   document.querySelector("#products")?.scrollIntoView({ behavior: "smooth" });
                 }}
                 className="inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-[#e94560] text-white font-semibold text-sm shadow-[0_4px_20px_rgba(233,69,96,0.35)] hover:bg-[#d63652] transition-colors duration-200"
+              style={{ fontSize: "18px" }}
               >
                 Shop the Collection
                 <ArrowRight className="w-4 h-4" />
