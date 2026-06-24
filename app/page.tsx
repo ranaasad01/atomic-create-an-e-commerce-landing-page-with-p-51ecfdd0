@@ -440,7 +440,7 @@ export default function HomePage() {
                     <Star key={i} className="w-4 h-4 fill-amber-400 text-amber-400" />
                   ))}
                 </div>
-                <p className="text-[#1a1a2e]/70 text-sm leading-relaxed flex-1 text-pretty" style={{ color: "#1e1ef6", fontSize: "14px" }}>
+                <p className="text-[#1a1a2e]/70 text-sm leading-relaxed flex-1 text-pretty" style={{ color: "#1e1ef6", fontSize: "19px" }}>
                   &ldquo;{t.text}&rdquo;
                 </p>
                 <div className="flex items-center gap-3 pt-2 border-t border-black/5">
